@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-# Created by: Mr. Coxall
-# Created on: Sep 2020
-# This program calculates the area and perimeter of a circle
+
+# Created by Samuel Webster
+# Created on February 2022
+# This program calculates the area and circumference of a circle
 # with radius 15mm
 
 import math
